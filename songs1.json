@@ -1,0 +1,7 @@
+{"songlist": [{"id": 1234, "title": "Say It Ain't So", "artist": "Weezer", "year": 1994, "genre": "Rock"},
+              {"id": 8930, "title": "You Oughta Know", "artist": "Alanis Morissette", "year": 1995, "genre": "Pop"},
+              {"id": 6797, "title": "No Scrubs", "artist": "TLC", "year": 1999, "genre": "Hip Hop"},
+              {"id": 2345, "title": "...Baby One More Time", "artist": "Britney Spears", "year": 1998, "genre":  "Pop Rock"},
+              {"id": 4837, "title": "Believe", "artist": "Cher", "year": 1998, "genre": "Dance Pop"}
+             ]
+}
